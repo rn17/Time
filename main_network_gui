@@ -1,6 +1,9 @@
 #!/bin/sh
 
+
 export LANG=en.US.UTF-8
+
+
 HOST=localhost
 PORT=8888
 
