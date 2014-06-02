@@ -2,7 +2,6 @@
 
 read continent_city
 set $continent_city
-
 export TZ="$1"/"$2"
 date
 
