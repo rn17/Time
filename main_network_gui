@@ -9,7 +9,7 @@ ERROR=/tmp/main-err
 
 
 MAIN="nc $HOST $PORT"
-zenity --entry --entry-text="type" --text "Insert Continent(Space)City" > $FILE1 || end
+zenity --entry --entry-text="type" --text "Enter Continent(Space)City" > $FILE1 || end
 
 ###
 if cat $FILE1 | $MAIN > $FILE2 2>$ERROR
