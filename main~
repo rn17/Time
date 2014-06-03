@@ -1,0 +1,10 @@
+#!/bin/sh
+
+#variable1=$(zenity --entry --entry-text="Type" --text="Enter Continent")
+#variable2=$(zenity --entry --entry-text="Type" --text="Enter City")
+export TZ="$1"/"$2"
+date
+#RR=$(date)
+#zenity --info --text="$RR"
+
+
