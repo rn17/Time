@@ -1,13 +1,8 @@
 #!/bin/sh
 
-#variable1=$(zenity --entry --entry-text="Type" --text="Enter Continent")
-#variable2=$(zenity --entry --entry-text="Type" --text="Enter City")
 read continent_city
 set $continent_city
-
 export TZ="$1"/"$2"
 date
-#RR=$(date)
-#zenity --info --text="$RR"
 
 

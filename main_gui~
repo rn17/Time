@@ -4,8 +4,6 @@
 export LANG=en.US.UTF-8
 export LANG=hi_IN.UTF-8
 
-LANG=en_US
-
 language=$(zenity --entry --entry-text="Type" --text="Please Choose language: Type 1 for Hindi ;Type 2 for English")
 if [ $language -eq 1 ]
 then
