@@ -13,12 +13,12 @@ Running the program
 
 1.Basic command line
 
-Step1, Type: ./main
+Step1, Type: main
 Step2, Give arguements on command line on the next line with space: Europe Moscow
 
 2.GUI with Localization(Language: Hindi)
 
-Step1, Type:  ./main_gui
+Step1, Type: main_gui
 Step2: Type 1 for Hindi, Type 2 for English in GUI
 Step3: Type Continent, for example: Australia
 Step4: Type City, for example: Perth
@@ -29,7 +29,7 @@ Step5: The time and date is displayed in the chosen language
 Step1: Type: nc localhost 8888
 Step2: In next line type(for example): Europe Paris
 Step3: The time and date is displayed.
-Step4: Type ./main_network_gui
+Step4: Type main_network_gui
 Step5: Type(for example)  Asia Kolkata
 Step6: The coreect time and date is displayed
 
