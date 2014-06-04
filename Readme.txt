@@ -5,7 +5,7 @@ Installing the program
 1.su -
 2.Change directory to time
 3.make install
-4.make
+
 
 The Makefile has the command to install xinetd. But if it fails to install the user can install using 
 yum -y install xinetd 
