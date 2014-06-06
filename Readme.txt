@@ -19,11 +19,12 @@ Step2, Give arguements on command line on the next line with space(for example):
 
 2.GUI with Localization(Language: Hindi)
 
+Exclusively for Hindi(No need for user to know English)
+
 Step1, Type: main_gui
-Step2: Type 1 for Hindi, Type 2 for English in GUI
 Step3: Type Continent, for example: Australia
 Step4: Type City, for example: Perth
-Step5: The time and date is displayed in the chosen language
+Step5: The time and date is displayed in Hindi.
 
 3.Network 
 
